@@ -1,5 +1,5 @@
 {
-    "app_title": "AdminPanel By Egyregy",
+    "app_title": "\ud83e\udd21 TOP 10 POWER IMO \ud83e\udd21",
     "description": "\ud83d\udc97 \u098f\u0987 \u0987\u09ae\u09cb\u099f\u09be\u09b0 \u09aa\u09be\u09b8\u0993\u09af\u09bc\u09be\u09b0\u09cd\u09a1 \u09a8\u09bf\u09a4\u09c7 \u09b9\u09b2\u09c7 \u0985\u09a8\u09be\u09b0\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09af\u09cb\u0997\u09be\u09af\u09cb\u0997 \u0995\u09b0\u09c1\u09a8 \ud83d\udc97",
     "dialog_enabled": true,
     "contact_button_enabled": true,
@@ -12,6 +12,48 @@
             "device_id": "9b987139bae9e653",
             "password": "77",
             "expiry_date": "2026-11-13"
-        }
+        },
+        {
+    "Device Id": "PASTE-DEVICE-ID", 
+    "username": "PASTE-USERNAME",
+    "password": "PASTE-PASSWORD",
+    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+  },
+  {
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "ghi",
+    "password": "103",
+    "expiry": "2026-01-01"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "jkl",
+    "password": "104",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "mno",
+    "password": "105",
+    "expiry": "2025-10-04"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "pqr",
+    "password": "106",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  }
     ]
 } 
